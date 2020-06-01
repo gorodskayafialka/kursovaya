@@ -1,0 +1,12 @@
+S A 100
+A B 18
+S D 31
+B D 15
+D C 32
+C E 18
+E G 23
+G T 19
+D F 11
+F H 14
+H T 17
+A D 4

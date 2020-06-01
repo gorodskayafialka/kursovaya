@@ -1,0 +1,14 @@
+S E 23
+S D 12
+A B 7
+B D 17
+D F 19
+C A 5
+E C 1
+E F 42
+E G 15
+F G 11
+F H 13
+H G 10
+F T 22
+G T 33

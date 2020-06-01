@@ -1,0 +1,2 @@
+C:\Users\Гость\source\repos\Preflow-push_algorithm\Debug\Preflow-push_algorithm.exe
+C:\Users\Гость\source\repos\Preflow-push_algorithm\Debug\Preflow-push_algorithm.pdb

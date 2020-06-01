@@ -1,0 +1,14 @@
+S A 11
+S B 12
+A C 9
+B D 55
+C D 10
+D F 11
+C F 4
+C E 15
+F E 3
+E G 16
+F G 8
+F H 7
+H T 12
+G T 12

@@ -1,0 +1,17 @@
+﻿  Preflow_tests.cpp
+C:\Users\Гость\source\repos\Preflow-push_algorithm\Checking_data.cpp(20,27): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Гость\source\repos\Preflow-push_algorithm\Checking_data.cpp(32,27): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Гость\source\repos\Preflow-push_algorithm\Checking_data.cpp(53,29): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Гость\source\repos\Preflow-push_algorithm\Checking_data.cpp(67,29): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Гость\source\repos\Preflow-push_algorithm\Checking_data.cpp(82,28): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Гость\source\repos\Preflow-push_algorithm\Checking_data.cpp(101,28): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Гость\source\repos\Preflow-push_algorithm\Checking_data.cpp(120,27): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Гость\source\repos\Preflow-push_algorithm\Checking_data.cpp(138,27): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Гость\source\repos\Preflow-push_algorithm\Checking_data.cpp(150,27): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Гость\source\repos\Preflow-push_algorithm\Checking_data.cpp(162,27): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Гость\source\repos\Preflow-push_algorithm\Checking_data.cpp(174,27): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Гость\source\repos\Preflow-push_algorithm\Checking_data.cpp(203,28): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Гость\source\repos\Preflow-push_algorithm\Checking_data.cpp(224,29): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Гость\source\repos\Preflow-push_algorithm\Algorithm.cpp(91,27): warning C4101: err: неиспользованная локальная переменная
+     Создается библиотека C:\Users\Гость\source\repos\Preflow-push_algorithm\Debug\Preflow_tests.lib и объект C:\Users\Гость\source\repos\Preflow-push_algorithm\Debug\Preflow_tests.exp
+  Preflow_tests.vcxproj -> C:\Users\Гость\source\repos\Preflow-push_algorithm\Debug\Preflow_tests.dll
